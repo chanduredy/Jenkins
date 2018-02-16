@@ -1,2 +1,2 @@
-sudo mkdir /home/chandu/Documents/dircreation -p root
+mkdir /home/chandu/Desktop/dircreation 
 
